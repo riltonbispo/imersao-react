@@ -1,133 +1,138 @@
 {
   "name": "Rilton Bispo ",
-  "job": "estágiario",
+  "job": "Dev - Frontend",
+  "bg": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
   "github": "riltonbispo",
   "playlists": {
-      "jogos": [
+      "musica": [
           {
-              "title": "Frostpunk - Neve e Steak tartare",
-              "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-              "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+              "title": "Reid - Virgulado",
+              "url": "https://www.youtube.com/watch?v=5zMao4j62gE",
+              "thumb": "https://i.ytimg.com/vi/5zMao4j62gE/hq720.jpg?sqp=-oaymwE2CNAFEJQDSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhJIGUoTDAP&rs=AOn4CLBfay5qY9wo7n7CZhbqcQyoosxIxA"
           },
           {
-              "title": "Frostpunk - Neve e Steak tartare",
-              "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-              "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+              "title": "Young Stoner Life, Young Thug & Gunna - Slatty",
+              "url": "https://www.youtube.com/watch?v=ccAJ0-_cGO0&ab_channel=YoungThug",
+              "thumb": "https://i3.ytimg.com/vi/ccAJ0-_cGO0/maxresdefault.jpg"
           },
           {
-              "title": "Gas Station Simulator - 8 dias sem dormir!",
-              "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-              "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+              "title": "Baby Keem, Kendrick Lamar - family ties",
+              "url": "https://www.youtube.com/watch?v=v6HBZC9pZHQ&ab_channel=BabyKeemVEVO",
+              "thumb": "http://i3.ytimg.com/vi/v6HBZC9pZHQ/hqdefault.jpg"
           },
           {
-              "title": "Gartic Phone - Não assista a esse NerdPlayer!",
-              "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-              "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+              "title": "Rincon Sapiência - De Onde Cê Vem ",
+              "url": "https://www.youtube.com/watch?v=TvngWhHRoJc&ab_channel=RinconSapi%C3%AAncia",
+              "thumb": "http://i3.ytimg.com/vi/TvngWhHRoJc/hqdefault.jpg"
           },
           {
-              "title": "Netdecking Estraga o Magic?",
-              "url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
-              "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+              "title": "Baco Exu do Blues - Abre Caminho",
+              "url": "https://www.youtube.com/watch?v=cuXZ-hKzpqg&ab_channel=BACOEXUDOBLUES",
+              "thumb": "http://i3.ytimg.com/vi/cuXZ-hKzpqg/hqdefault.jpg"
           },
           {
-              "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-              "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-              "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
+              "title": "Rock Danger Feat: Derxan, Major RD, Big Bllakk e LEALL",
+              "url": "https://www.youtube.com/watch?v=fRXEqAzMZZo&ab_channel=RockDangerRec",
+              "thumb": "http://i3.ytimg.com/vi/fRXEqAzMZZo/hqdefault.jpg"
           },
           {
-              "title": "We Were Here Together - Os Enigmas deste Mundo",
-              "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-              "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
+              "title": "Borges - Sodoma e Gomorra feat. BK",
+              "url": "https://www.youtube.com/watch?v=MZ6kM3eVQB0&ab_channel=Borges",
+              "thumb": "http://i3.ytimg.com/vi/MZ6kM3eVQB0/hqdefault.jpg"
           },
           {
-              "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-              "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-              "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+              "title": "VEIGH, Nagalli - Londres Freestyle 🇬🇧",
+              "url": "https://www.youtube.com/watch?v=l54a1O53ZiA&ab_channel=VEIGH",
+              "thumb": "http://i3.ytimg.com/vi/l54a1O53ZiA/hqdefault.jpg"
           }
       ],
-      "front-end": [
+      "Esporte": [
           {
-              "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-              "url": "https://youtube.com/watch?v=jOAU81jdi-c",
-              "thumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+              "title": "MATA-MATA ALUCINANTE! SIMULAMOS A CHAMPIONS LEAGUE",
+              "url": "https://www.youtube.com/watch?v=GtmNhD_MkVY",
+              "thumb": "http://i3.ytimg.com/vi/GtmNhD_MkVY/hqdefault.jpg"
           },
           {
-              "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
-              "url": "https://www.youtube.com/watch?v=llF6vD-RljE",
-              "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
+              "title": "CURRY MARCA 47 PONTOS E DECIDE NO FIM! WARRIORS 116 X 113 KINGS ",
+              "url": "https://www.youtube.com/watch?v=MZq44v3MWkg&ab_channel=TNTSportsBrasil",
+              "thumb": "http://i3.ytimg.com/vi/MZq44v3MWkg/hqdefault.jpg"
           },
           {
-              "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-              "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-              "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+              "title": "VINI JR. FAZ GOL ANTOLÓGICO NO MELHOR JOGO",
+              "url": "https://www.youtube.com/watch?v=etz7BFT7z3U&ab_channel=TNTSportsBrasil",
+              "thumb": "http://i3.ytimg.com/vi/etz7BFT7z3U/hqdefault.jpg"
           },
           {
-              "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
-              "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
-              "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+              "title": "É DO BRASIL! FADINHA É A CAMPEÃ MUNDIAL",
+              "url": "https://www.youtube.com/watch?v=fy6LTxXGLx8&ab_channel=ge",
+              "thumb": "http://i3.ytimg.com/vi/fy6LTxXGLx8/hqdefault.jpg"
           },
           {
-              "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-              "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-              "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+              "title": "Repórter Doidão - Final da Libertadores!",
+              "url": "https://www.youtube.com/watch?v=EN-TKxxQxi8&ab_channel=DIOGODEFANTE",
+              "thumb": "http://i3.ytimg.com/vi/EN-TKxxQxi8/hqdefault.jpg"
           },
           {
-              "title": "Como Foi Programado um App Que Faz Mágica",
-              "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-              "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+              "title": "ATUAL CAMPEÃO DA NBA EM QUADRA!",
+              "url": "https://www.youtube.com/watch?v=XxC0bvjxe1Y&ab_channel=TNTSportsBrasil",
+              "thumb": "http://i3.ytimg.com/vi/XxC0bvjxe1Y/hqdefault.jpg"
           },
           {
-              "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
-              "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
-              "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+              "title": "DANI ALVES NA COPA; 11X11 RESERVAS X NÃO CONVOCADOS",
+              "url": "https://www.youtube.com/watch?v=L3smQgM7wuM&ab_channel=DePlaca",
+              "thumb": "http://i3.ytimg.com/vi/L3smQgM7wuM/hqdefault.jpg"
           },
           {
-              "title": "5 Erros Históricos do CSS",
-              "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-              "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
+              "title": "LISTA É BOA, MESMO COM INEXPLICÁVEL DANIEL ALVES",
+              "url": "https://www.youtube.com/watch?v=OebdybsZbLs&ab_channel=CanaldoVSR",
+              "thumb": "http://i3.ytimg.com/vi/OebdybsZbLs/hqdefault.jpg"
           },
           {
-              "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-              "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-              "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
+              "title": "BRASIL 2002 X ALEMANHA 2014: QUAL SELEÇÃO CAMPEÃ DA COPA TEM O MELHOR TIME? - MANO A MANO",
+              "url": "https://www.youtube.com/watch?v=87GUnDm4MrY&ab_channel=TNTSportsBrasil",
+              "thumb": "http://i3.ytimg.com/vi/87GUnDm4MrY/hqdefault.jpg"
           }
       ],
-      "back-end": [
+      "Outros": [
           {
-              "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-              "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
-              "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
+              "title": "Quavo & Takeoff - HOTEL LOBBY | A COLORS SHOW",
+              "url": "https://www.youtube.com/watch?v=x9yop0nYR9g&ab_channel=COLORS",
+              "thumb": "http://i3.ytimg.com/vi/x9yop0nYR9g/hqdefault.jpg"
           },
           {
-              "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-              "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
-              "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+              "title": "CASIMIRO NÃO AGUENTA MAIS! BAHIA 2X1 VASCO",
+              "url": "https://www.youtube.com/watch?v=MP5_5oT7UoE&ab_channel=CortesdoCasimito%5BOFICIAL%5D",
+              "thumb": "http://i3.ytimg.com/vi/MP5_5oT7UoE/hqdefault.jpg"
           },
           {
-              "title": "O que é o Java? #HipstersPontoTube",
-              "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-              "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+              "title": "POV: Vc é FRIO E CALCULISTA no Valorant...",
+              "url": "https://www.youtube.com/watch?v=MUdTeJf0Km4&ab_channel=VdeValorant",
+              "thumb": "http://i3.ytimg.com/vi/MUdTeJf0Km4/hqdefault.jpg"
           },
           {
-              "title": "O que é Machine Learning? #HipstersPontoTube",
-              "url": "https://www.youtube.com/watch?v=Iuz_jc96bQk",
-              "thumb": "https://img.youtube.com/vi/Iuz_jc96bQk/hqdefault.jpg"
+              "title": "YURI MARÇAL - NÃO VOTO EM LADRÃO",
+              "url": "https://www.youtube.com/watch?v=dxPxXzapqtE&ab_channel=YuriMar%C3%A7al",
+              "thumb": "http://i3.ytimg.com/vi/dxPxXzapqtE/hqdefault.jpg"
           },
           {
-              "title": "A MELHOR linguagem de programação com Fabio Akita | #HipstersPontoTube",
-              "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
-              "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+              "title": "YURI MARÇAL - SOBRE MIM (PARTE 1) - TDAH",
+              "url": "https://www.youtube.com/watch?v=KwKyuOnfibU&ab_channel=YuriMar%C3%A7al",
+              "thumb": "http://i3.ytimg.com/vi/KwKyuOnfibU/hqdefault.jpg"
           },
           {
-              "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-              "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-              "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+              "title": "CALVO DE CRIA NO SONS DA RUA! ft. Bk', Djonga, Filipe Ret, Thaide, Raillow, Rico Dalasam e +",
+              "url": "https://www.youtube.com/watch?v=4sXd8v-nIKU&ab_channel=RAP%2Cfalando",
+              "thumb": "http://i3.ytimg.com/vi/4sXd8v-nIKU/hqdefault.jpg"
           },
           {
-              "title": "O que é o C#? #HipstersPontoTube",
-              "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
-              "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+              "title": "Yunk Vino - Arizona (Official Video)",
+              "url": "https://www.youtube.com/watch?v=vnSTJXj_apg&ab_channel=YunkVino",
+              "thumb": "http://i3.ytimg.com/vi/vnSTJXj_apg/hqdefault.jpg"
           }
       ]
+  },
+  "favoritos": {
+    "imagem": "https://i0.wp.com/www.rapdab.com.br/wp-content/uploads/2020/08/NLE-CHOPPA.jpg?fit=1200%2C750&ssl=1",
+    "canal": "@"
   }
 }
